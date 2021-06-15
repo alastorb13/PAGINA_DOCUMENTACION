@@ -1,0 +1,65 @@
+#main-doc {
+  color: black;
+  position: absolute;
+  margin-left: 310px;
+  padding: 20px;
+  margin-bottom: 110px;
+}
+.main-section {
+  color: black;
+}
+#Como_hacer_llorar_un_payaso {
+  color: black;
+}
+#Como_invocar_unicornios {
+  color: black;
+}
+#Como_convertir_agua_en_vino {
+  color: black;
+}
+#Como_invocar_pareja {
+  color: black;
+}
+#Para_que_sirve_un_gato_negro {
+  color: black;
+}
+#navbar {
+  color: black;
+  position: fixed;
+  border-right: solid;
+  width: 300px;
+  float: left;
+}
+a {
+  color: black;
+}
+a:hover {
+  color: red;
+}
+.nav-link {
+  color: black;
+}
+#navbar ul {
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 89px;
+}
+#navbar li {
+  position: relative;
+  border-top: solid;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+#navbar a {
+  dysplay: block;
+  cursor: pointer;
+}
+.container {
+  height: 800px;
+  flex-position: center;
+}
+@media (max-width: 800px) {
+  .container {
+    height: 500px;
+  }
+}
